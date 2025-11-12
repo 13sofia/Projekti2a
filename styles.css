@@ -1,0 +1,75 @@
+/* Lisää tämä linkki <head> osaan index.html:ssä:
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2&display=swap" rel="stylesheet">
+*/
+
+body {
+  font-family: 'Baloo 2', cursive;
+  background-color: #1a1a1a;
+  color: #ff69b4;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background-color: #2a2a2a;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(255, 105, 180, 0.3);
+}
+
+h1, h2 {
+  color: #ff69b4;
+  text-align: center;
+  font-weight: 600;
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px 0;
+  width: 100%;
+  font-size: 18px;
+  border: none;
+  border-radius: 6px;
+  font-family: 'Baloo 2', cursive;
+}
+
+input {
+  background-color: #333;
+  color: #ff69b4;
+  border: 1px solid #ff69b4;
+}
+
+button {
+  background-color: #ff69b4;
+  color: #1a1a1a;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #ff85c1;
+}
+
+.album {
+  border-bottom: 1px solid #444;
+  padding: 10px 0;
+}
+
+.album img {
+  max-width: 100px;
+  vertical-align: middle;
+  margin-right: 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(255, 105, 180, 0.5);
+}
+
+ul {
+  padding-left: 20px;
+}
+
+p {
+  line-height: 1.6;
+}
