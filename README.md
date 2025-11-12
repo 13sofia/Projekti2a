@@ -3,7 +3,7 @@ Music Information APP utilizing Live JSON API from LiveFM - Sofia Sallinen & Eri
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [MusicInfoApp](https://gorgeous-cranachan-1aed45.netlify.app/)  
-Linkki projektin videoesittelyyn [google.com](https://google.com)
+Linkki projektin videoesittelyyn [Video-esittely](https://youtu.be/0NLJ2uCtNig)
 
 ## Työn jakautuminen 
 Työmäärä jaettiin niin, että Erica teki API avaimen ja Sofia github repositorion. Kirjoitimme koodin kokonaan yhdessä sofian visual studio codeen. Käytimme aikaa tähän projektiin yhteensä 10 tuntia teimme töitä aina yhdessä kummankin kotona, se sujui todella hyvin, koska olemme naapureita.
