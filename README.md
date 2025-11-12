@@ -9,7 +9,7 @@ Linkki projektin videoesittelyyn [google.com](https://google.com)
 Työmäärä jaettiin niin, että Erica teki API avaimen ja Sofia github repositorion. Kirjoitimme koodin kokonaan yhdessä sofian visual studio codeen. Käytimme aikaa tähän projektiin yhteensä 10 tuntia teimme töitä aina yhdessä kummankin kotona, se sujui todella hyvin, koska olemme naapureita.
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Yhteinen itsearviointi
+Yhteinen itsearviointi:
 Mielestämme onnistuimme saamaan sovelluksen ulkoasusta kauniin ja sovelluksesta toimivan
 Parantamista olisi vielä jonkin verran, sovellus on todella yksinkertainen. 
 Sovelluksesta jäi puuttumaan lista, jossa artistit voi valita päätimme tehdä siitä hakukentän.
