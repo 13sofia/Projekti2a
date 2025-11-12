@@ -44,6 +44,4 @@ Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse my�
 Käytimme apuna monia eri sivuja kuten w3school, copilot, chatgpt, opettajan materiaalit ja tunnilla opittuja oppeja. Lisäksi kysyimme kavereiltamme Angelokselta apua netlify julkaisuun ja kuvakaappauksen liittämiseen.
 
 ## Lisenssi
-Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Esimerkki: MIT-lisenssi @ [tekijä](author.com)
+MIT-lisenssi @13sofia
