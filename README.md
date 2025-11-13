@@ -44,4 +44,4 @@ Lista l채hteist채 ja esimerkeist채, joita k채ytit projektin aikana. Mainitse my�
 K채ytimme apuna monia eri sivuja kuten w3school, copilot, chatgpt, opettajan materiaalit ja tunnilla opittuja oppeja. Lis채ksi kysyimme kavereiltamme Angelokselta apua netlify julkaisuun ja kuvakaappauksen liitt채miseen.
 
 ## Lisenssi
-MIT-lisenssi @13sofia
+MIT-lisenssi @ 13sofia
